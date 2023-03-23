@@ -1,0 +1,141 @@
+@import url('https://fonts.googleapis.com/css2?family=Cinzel&family=Cinzel+Decorative&family=Poppins:wght@200&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.Search-Upload {}
+
+.search {
+    position: absolute;
+    width: 339px;
+    height: 206.3px;
+    left: 1086px;
+    top: 107.78px;
+    background: #FFFFFF;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.3);
+    border-radius: 5px;
+}
+
+.upload {
+    position: absolute;
+    width: 339px;
+    height: 398.83px;
+    left: 1086px;
+    top: 326.21px;
+    background: #FFFFFF;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.3);
+    border-radius: 5px;
+}
+
+.box01 {
+    position: absolute;
+    width: 300px;
+    height: 39.29px;
+    left: 1105.5px;
+    top: 139.08px;
+
+    background: #FFFFFF;
+    border-radius: 5px;
+
+}
+
+.box02 {
+
+    position: absolute;
+width: 300px;
+height: 39.29px;
+left: 1105.5px;
+top: 191.29px;
+
+background: #FFFFFF;
+border-radius: 5px;
+}
+
+.box11 {
+    position: absolute;
+    width: 300px;
+    height: 39.29px;
+    left: 1105.5px;
+    top: 384px;
+
+
+    background: #FFFFFF;
+    border-radius: 5px;
+}
+
+.box12 {
+    box-sizing: border-box;
+
+    position: absolute;
+    left: 76.77%;
+    right: 2.4%;
+    top: 52.19%;
+    bottom: 34.71%;
+
+    border: 1.5px solid #B0ACAC;
+    border-radius: 5px;
+}
+
+.box13 {
+    position: absolute;
+    width: 300px;
+    height: 39.29px;
+    left: 1105.5px;
+    top: 558.83px;
+
+    background: #FFFFFF;
+    border-radius: 5px;
+}
+
+.btn01 {
+    position: absolute;
+    left: 76.77%;
+    right: 2.4%;
+    top: 29.13%;
+    bottom: 66.17%;
+
+    background: #006FBB;
+    border-radius: 5px;
+}
+
+.btn11 {
+    position: absolute;
+    width: 52px;
+    height: 13px;
+    left: 1112.18px;
+    top: 614.08px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 8.84895px;
+    line-height: 13px;
+
+    color: #363030;
+
+}
+
+.btn12 {
+    position: absolute;
+    left: 76.77%;
+    right: 2.4%;
+    top: 76.92%;
+    bottom: 18.38%;
+
+    background: #006FBB;
+    border-radius: 5px;
+}
+
+.btn13 {
+    position: absolute;
+    width: 300px;
+    height: 24px;
+    left: 1105.5px;
+    top: 692px;
+
+    background: #D7373F;
+    border-radius: 5px;
+}
